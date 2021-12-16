@@ -1,0 +1,10 @@
+.place__paragraph {
+  margin: 0px;
+  font-size: 18px;
+  line-height: 163%;
+/*  grid-area: place__paragraph;*/
+}
+
+.place__paragraph:first-of-type {
+  margin-bottom: 27px;
+}
