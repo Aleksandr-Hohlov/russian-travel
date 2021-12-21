@@ -7,8 +7,16 @@
 
 .header__lang-link:first-of-type {
   margin-right: 18px;
+
+}
+
+/*.header__lang-link:lang(ru):first-of-type {
   text-decoration: underline;
 }
+
+.header__lang-link:lang(en):last-of-type {
+  text-decoration: underline;
+}*/
 
 @media screen and (max-width: 420px) {
   .header__lang-link {

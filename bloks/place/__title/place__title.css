@@ -8,12 +8,6 @@
 /*  grid-area: place__title;*/
 }
 
-@media screen and (min-width: 1280px) {
-  .place__title {
-    max-width: 440px;
-  }
-}
-
 @media screen and (max-width: 768px) {
   .place__title {
     max-width: 460px;
