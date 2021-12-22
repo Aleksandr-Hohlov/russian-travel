@@ -8,4 +8,5 @@
   • при создании использованы медиа запросы;
   • проект создан по макету Figma;
 
+Ссылка на проект https://aleksandr-hohlov.github.io/russian-travel/index.html
   ```
