@@ -19,5 +19,6 @@
   .place__title {
     max-width: 320px;
     font-size: 32px;
+    margin: 0px 16px;
   }
 }

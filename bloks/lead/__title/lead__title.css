@@ -8,16 +8,16 @@
   overflow-wrap: anywhere;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 668px) {
+  .lead__title {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 420px) {
   .lead__title {
     max-width: 288px;
     font-size: 40px;
     line-height: 110%;
-  }
-}
-
-@media screen and (max-width: 668px) {
-  .lead__title {
-    font-size: 60px;
   }
 }

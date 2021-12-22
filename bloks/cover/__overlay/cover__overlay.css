@@ -18,13 +18,12 @@
   height: 100%;
   position: absolute;
   z-index: 1;
-
+  transition: 0.2s linear;
 }
 
 .cover__overlay:hover::before {
   opacity: 0.8;
   background-color: #2A2C2F;
-  transition: opacity 0.2s linear;
 }
 
 
