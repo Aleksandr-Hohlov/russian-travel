@@ -15,13 +15,13 @@
 
 @media screen and (max-width: 650px) {
   .place {
-    grid-template-columns: repeat(1, min-content);
+    grid-template-columns: 1fr;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place {
-    grid-template-columns: repeat(1, min-content);
+    grid-template-columns: 1fr;
     margin-bottom: 50px;
     row-gap: 32px;
   }
