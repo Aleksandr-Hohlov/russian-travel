@@ -1,6 +1,9 @@
+
 ---
 
 **[Проект: Путешествия по России](https://aleksandr-hohlov.github.io/russian-travel/index.html)**
+
+---
 
 **Описание проекта:**
 - реализовано с использованием HTML и CSS;
